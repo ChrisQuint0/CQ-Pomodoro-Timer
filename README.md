@@ -1,6 +1,9 @@
 # CQ-Pomodoro-Timer
 A pomodoro timer desktop application made in Java that has all the features you need for a pomodoro timer
 
+[**CQ POMODORO TIMER DEMONSTRATION**](https://youtu.be/cK3gGycNehs)
+
+
 **FEATURES**
 
 **Timer** - 25 minute work session adn a 5 minute break after every completed work session, 20 minute break is set for every 4 completed sessions
