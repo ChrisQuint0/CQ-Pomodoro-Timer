@@ -14,3 +14,6 @@ A pomodoro timer desktop application made in Java that has all the features you 
 **Theme Button** - You can toggle between light GUI and dark GUI
 
 **Info Button** - Contains the instructions on how to use the timer
+
+
+![Alt text](README-Photos/One.png)
